@@ -1,8 +1,8 @@
-# 🎃 Haunted Couture – Slideware Prototype
+# 🎃 Haunted Couture - Slideware Prototype
 
 This repository contains the **Haunted Couture** prototype, built as a **slideware prototype** for rapid UX exploration. The application imagines a Halloween-themed online fashion platform where users can upload their photos, virtually try on outfits, shop for themed clothing, and share creations on social media.
 
-> 📌 This project was approached as a full UX case study, from concept to wireframes, slideware prototyping, user testing, and iteration.
+📌 This project was approached as a full UX case study, from concept and storyboarding to slideware prototyping, user testing, and iteration.
 
 ---
 
