@@ -93,8 +93,8 @@ We conducted usability studies with multiple participants. Key observations incl
 
 ## 📂 Repository Contents
 
-- **slideware_prototype_report.pdf** – Full case study report with task descriptions, wireframes, design patterns, user study notes, and reflections  
-- **slideware_prototype.pdf** – Interactive slideware prototype file  
+- **slideware_prototype_report.pdf** - Full case study report with task descriptions, wireframes, design patterns, user study notes, and reflections  
+- **slideware_prototype.pdf** - Interactive slideware prototype file  
 
 ---
 
