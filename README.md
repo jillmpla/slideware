@@ -8,7 +8,7 @@ This repository contains the **Haunted Couture** prototype, built as a **slidewa
 
 ## 📝 What is Slideware in UI/UX?
 
-In the context of UI/UX and **rapid prototyping**, *slideware* refers to prototypes created using presentation tools (PowerPoint, Google Slides, etc.) rather than code.  
+In the context of UI/UX and **rapid prototyping**, *slideware* refers to prototypes created using presentation tools, such as PowerPoint, Google Slides, etc.
 
 - **Purpose:** Quickly simulate screens, flows, and interactions without development overhead.  
 - **Speed:** Faster than high-fidelity prototyping tools; ideal for early testing and feedback.  
